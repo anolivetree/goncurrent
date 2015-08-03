@@ -1,0 +1,5 @@
+include 'goncurrent'
+
+rootProject.name = 'goncurrent'
+include 'goncurrent-sample'
+
