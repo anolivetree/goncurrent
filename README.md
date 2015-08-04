@@ -99,6 +99,14 @@ select() blocks when no channel is ready. If you don't want to block, use select
         select.send(ch1, 10);
         int index = select.selectNonblock(); // No channel is ready. Returns -1
         
+Download
+--------
+
+[ ![Download](https://api.bintray.com/packages/anolivetree/maven/goncurrent/images/download.svg) ](https://bintray.com/anolivetree/maven/goncurrent/_latestVersion)
+
+or Gradle(from jcenter)
+
+    compile 'io.github.anolivetree:goncurrent:1.+'
 
 License
 -------
