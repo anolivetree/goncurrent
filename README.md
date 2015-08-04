@@ -102,7 +102,7 @@ select() blocks when no channel is ready. If you don't want to block, use select
 Download
 --------
 
-[ ![Download](https://api.bintray.com/packages/anolivetree/maven/goncurrent/images/download.svg) ](https://bintray.com/anolivetree/maven/goncurrent/_latestVersion)
+Download [the latest jar](https://bintray.com/artifact/download/anolivetree/maven/io/github/anolivetree/goncurrent/1.0/goncurrent-1.0.jar).
 
 or Gradle(from jcenter)
 
