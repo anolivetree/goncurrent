@@ -1,7 +1,7 @@
 Goncurrent
 ============
 
-Goncurrent provides the power of channel and select of Golang. Goncurrent works as you expect it to do.
+Goncurrent is a Java library which provides the power of channel and select of Golang. Goncurrent works as you expect it to do.
 See [sample](https://github.com/anolivetree/goncurrent/tree/master/goncurrent-sample/src/main/java) directory to see how to use it.
 
 Channel
